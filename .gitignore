@@ -1,3 +1,18 @@
+/ActionGameClient/Temp
+/ActionGameClient/Library
+/ActionGameClient/*.sln
+/ActionGameClient/*.csproj
+/ActionGameClient/.vs
+/ActionGameClient/obj
+/ActionGameClient/*.suo
+/ActionGameClient/*.*.suo
+/ActionGameClient/*.userprefs
+/ActionGameClient/Assets/Scene/ui_test.unity
+/ActionGameClient/Assets/Scene/ui_test.unity.meta
+/ActionGameClient/app
+/ActionGameClient/Assets/StreamingAssets
+/ActionGameClient/Assets/HotAssets/AssetBundles
+
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
