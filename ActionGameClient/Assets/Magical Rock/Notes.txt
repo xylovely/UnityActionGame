@@ -1,0 +1,19 @@
+Thanks for downloading this free asset.
+I really hope you'll like it !
+
+
+But WARNING ! Really important :
+To have the appropriate rendering, YOU HAVE TO set "Project Settings/Player/Color Space" to LINEAR.
+
+In the demo scene, you will find an example script witch use Magical Rock program interface to switch between its two states : magically green and normal.
+This activates or deactivates according materials, animations, diamond light and sound fx (wich is triggered by the diamond light animation).
+
+The prefab is ready to use.
+But of course you can create your own personnalized one using the models, animations and sfx.
+
+
+Have fun ! :)
+
+
+web : www.OldTree.Studio
+mail : sylvain@oldtree.studio
